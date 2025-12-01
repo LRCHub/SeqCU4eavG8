@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "DONZOKO",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T14:01:51.550388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DONZOKO",
+      "artist": "JAKEN",
+      "has_synced": true,
+      "path": "select/01_DONZOKO_JAKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Donzoko",
+      "artist": "Midori",
+      "has_synced": false,
+      "path": "select/02_Donzoko_Midori.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DONZOKO",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_DONZOKO_JAKEN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DoNZoKo",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_02_DoNZoKo_JAKEN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "donzoko",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_03_donzoko_JAKEN.txt"
+    }
+  ]
+}
